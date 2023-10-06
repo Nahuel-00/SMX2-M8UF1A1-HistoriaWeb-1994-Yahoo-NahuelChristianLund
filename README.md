@@ -15,6 +15,7 @@ Sus inventores fueron Jerry Yang y Dafid Filo en 1994
 <img src="https://github.com/Nahuel-00/SMX2-M8UF1A1-HistoriaWeb-1994-Yahoo-NahuelChristianLund/blob/main/Creadores.png" alt="Logo" width="300" height="150" />
 
 
+
 ### 3. *¿Como funciona yahoo?
 
 Se compone de 3 funciones principales:
