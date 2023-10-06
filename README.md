@@ -12,7 +12,8 @@ Es una de las principales empresas del sector de internet que dispone de un port
 
 Sus inventores fueron Jerry Yang y Dafid Filo en 1994
 
-<img src="https://github.com/Nahuel-00/SMX2-M8UF1A1-HistoriaWeb-1994-Yahoo-NahuelChristianLund/blob/main/Creadores.png" alt="Logo" width="300" height="150" />
+
+<img src="https://github.com/Nahuel-00/SMX2-M8UF1A1-HistoriaWeb-1994-Yahoo-NahuelChristianLund/blob/main/Creadores.png" alt="Logo" width="310" height="150" />
 
 
 
