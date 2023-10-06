@@ -1,5 +1,7 @@
 # Yahoo
 
+
+## Índice
 ```
 1. ¿Que es Yahoo?
 
