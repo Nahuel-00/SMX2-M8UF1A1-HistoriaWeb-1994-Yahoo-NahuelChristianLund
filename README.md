@@ -1,5 +1,14 @@
 # Yahoo
 
+```
+1. ¿Que es Yahoo?
+
+2. ¿Quien es sum inventor?
+
+3.¿Como funciona Yahoo?
+```
+
+
 ### 1. *¿Que es Yahoo?*
 
 Es una de las principales empresas del sector de internet que dispone de un portal propio, buscador y otros servicios relacionados como correo electrónico, noticias, tiempo, etc.
