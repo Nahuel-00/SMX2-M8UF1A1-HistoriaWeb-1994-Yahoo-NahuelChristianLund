@@ -17,7 +17,7 @@ Sus inventores fueron Jerry Yang y Dafid Filo en 1994.
 
 
 
-### 3. *¿Como funciona yahoo?
+### 3. *¿Como funciona yahoo?*
 
 Se compone de 3 funciones principales:
 
