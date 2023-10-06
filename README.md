@@ -10,7 +10,7 @@ Es una de las principales empresas del sector de internet que dispone de un port
 
 ### 2. *¿Quien fue su inventor?*
 
-Sus inventores fueron Jerry Yang y Dafid Filo en 1994
+Sus inventores fueron Jerry Yang y Dafid Filo en 1994.
 
 
 <img src="https://github.com/Nahuel-00/SMX2-M8UF1A1-HistoriaWeb-1994-Yahoo-NahuelChristianLund/blob/main/Creadores.png" alt="Logo" width="310" height="150" />
@@ -21,7 +21,7 @@ Sus inventores fueron Jerry Yang y Dafid Filo en 1994
 
 Se compone de 3 funciones principales:
 
-- Incorpora un buscador inteligente
+- Incorpora un buscador inteligente.
 
 - Tambien esta el Yahoo messenger que es una plataforma de correo electronico.
 
