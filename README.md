@@ -4,7 +4,7 @@
 
 Es una de las principales empresas del sector de internet que dispone de un portal propio, buscador y otros servicios relacionados como correo electrónico, noticias, tiempo, etc.
 
-<img src="https://github.com/Nahuel-00/SMX2-M8UF1A1-HistoriaWeb-1994-Yahoo-NahuelChristianLund/blob/main/logo.png" alt="Logo" width="200" height="200" />
+<img src="https://github.com/Nahuel-00/SMX2-M8UF1A1-HistoriaWeb-1994-Yahoo-NahuelChristianLund/blob/main/logo.png" alt="Logo" width="190" height="200" />
 
 
 
